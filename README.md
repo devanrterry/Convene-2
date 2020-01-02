@@ -18,11 +18,11 @@ Convene is a simple application that allows users to Convene-iently post events 
 
 [View Pitch Deck](https://docs.google.com/presentation/d/1Gq35lg-kTfQ58FlRTWq5UPn63O-8MPD8L-c7NZe6tuc/edit)
 
-### Trello Board
+### Trello Board:
 
 [View Trello Board](https://trello.com/b/aF01D6VC/sei-project-3)
 
-### Future Enhancements
+### Future Enhancements:
 
 - Incorporate mapping to display the exact location of the event
 - Allow the user to search for events based on location
