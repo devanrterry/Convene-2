@@ -154,3 +154,6 @@ LOGIN_REDIRECT_URL = '/events'
 LOGOUT_REDIRECT_URL = '/'
 
 TIME_INPUT_FORMATS = ['%I:%M %p',]
+
+import django_heroku
+django_heroku.settings(locals())
