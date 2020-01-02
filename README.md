@@ -20,7 +20,7 @@ Convene is a simple application that allows users to Convene-iently post events 
 
 ### Trello Board
 
-![View Trello Board](https://trello.com/b/aF01D6VC/sei-project-3)
+[View Trello Board](https://trello.com/b/aF01D6VC/sei-project-3)
 
 ### Future Enhancements
 
