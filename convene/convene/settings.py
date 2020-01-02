@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Los_Angeles'
 
 USE_I18N = True
 
@@ -154,3 +154,6 @@ LOGIN_REDIRECT_URL = '/events'
 LOGOUT_REDIRECT_URL = '/'
 
 TIME_INPUT_FORMATS = ['%I:%M %p',]
+
+import django_heroku
+django_heroku.settings(locals())
