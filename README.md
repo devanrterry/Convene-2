@@ -1,6 +1,6 @@
 # Convene
 
-[Click to Launch](https://convene.herokuapp.com/)
+[Click to Launch](https://convenemeetupapp.herokuapp.com/)
 
 ### Intro
 
