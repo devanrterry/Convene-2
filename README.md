@@ -16,7 +16,7 @@ Convene is a simple application that allows users to Convene-iently post events 
 
 ### Pitch Deck:
 
-!(https://docs.google.com/presentation/d/1Gq35lg-kTfQ58FlRTWq5UPn63O-8MPD8L-c7NZe6tuc/edit)
+[View Pitch Deck](https://docs.google.com/presentation/d/1Gq35lg-kTfQ58FlRTWq5UPn63O-8MPD8L-c7NZe6tuc/edit)
 
 ### Trello Board
 
