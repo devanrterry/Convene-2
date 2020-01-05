@@ -19,8 +19,8 @@
     <h2>All Events</h2>
     {% endif %}
     {%if events.all|length < 1%}
-    <div class="container" style="border: 1px solid red; border-radius: 20px; width: fit-content;">
-    <h3 style="padding: 0 45px 10px 45px;">No Events In This Category Yet.. <br>Add One, And <span style="text-decoration: underline;">Let's Get Together!</span> </h3>
+    <div class="container" style="border: 1px solid red;  border-radius: 20px; width: fit-content; padding: 30px;">
+    <h3 style="padding: 0 45px 10px 45px;">No events in this category yet.. <br><br>Add one, and let's get together! </h3>
 </div>
     {%endif%}
     {% for event in events %}

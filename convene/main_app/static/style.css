@@ -9,3 +9,7 @@
 .logo_outdoor:hover{
     background-color: aliceblue;
 }
+
+#eventform {
+    font-size: 3rem;
+}
